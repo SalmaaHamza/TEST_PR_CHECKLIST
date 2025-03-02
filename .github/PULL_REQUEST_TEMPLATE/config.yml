@@ -1,0 +1,16 @@
+
+blank_issues_enabled: false
+contact_links:
+  - name: Feature PR
+    url: https://github.com/SalmaaHamza/TEST_PR_CHECKLIST/blob/main/.github/PULL_REQUEST_TEMPLATE/feature.md
+    about: Use this template for new features
+  - name: Bug Fix PR
+    url: https://github.com/SalmaaHamza/TEST_PR_CHECKLIST/blob/main/.github/PULL_REQUEST_TEMPLATE/bugfix.md
+    about: Use this template to fix bugs
+  - name: Hotfix PR
+    url: https://github.com/SalmaaHamza/TEST_PR_CHECKLIST/blob/main/.github/PULL_REQUEST_TEMPLATE/hotfix.md
+    about: Use this template for critical fixes
+  - name: Default PR
+    url: https://github.com/SalmaaHamza/TEST_PR_CHECKLIST/blob/main/.github/PULL_REQUEST_TEMPLATE/default.md
+    about: Use this template for general PRs
+
